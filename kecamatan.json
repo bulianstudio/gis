@@ -1585,17 +1585,11 @@
             ]
          },
          "properties":{
-            "OBJECTID":"1",
             "NAMA_PROP":"Jambi",
             "KECAMATAN":"KEC. PEMAYUNG",
-            "NAMA_KABUP":"KAB. BATANGHARI",
-            "IBUKOTA_KE":"Jembatan Mas",
-            "Perimeter":180.084982325,
-            "Area":972.961711965,
-            "Acres":240424.074988,
-            "Hectares":97296.1711965,
-            "Jumlah_Pen":"30.726",
-            "Kepadatan":"30"
+            "NAMA_KABUPATEN":"KAB. BATANGHARI",
+            "IBUKOTA_KECAMATAN":"Jembatan Mas",
+            "JUMLAH PENDUDUK":"29.959"
          }
       },
       {
@@ -2268,17 +2262,11 @@
             ]
          },
          "properties":{
-            "OBJECTID":"2",
             "NAMA_PROP":"Jambi",
             "KECAMATAN":"KEC. MAROSEBO ILIR",
-            "NAMA_KABUP":"KAB. BATANGHARI",
-            "IBUKOTA_KE":"Terusan",
-            "Perimeter":81.9604357408,
-            "Area":169.008308173,
-            "Acres":41762.8624621,
-            "Hectares":16900.8308173,
-            "Jumlah_Pen":"12.737",
-            "Kepadatan":"99"
+            "NAMA_KABUPATEN":"KAB. BATANGHARI",
+            "IBUKOTA_KECAMATAN":"Terusan",
+            "JUMLAH_PENDUDUK":"12.737"
          }
       },
       {
@@ -3023,17 +3011,11 @@
             ]
          },
          "properties":{
-            "OBJECTID":"4",
             "NAMA_PROP":"Jambi",
             "KECAMATAN":"KEC. MUARA TEMBESI",
-            "NAMA_KABUP":"KAB. BATANGHARI",
-            "IBUKOTA_KE":"Muara Tembesi",
-            "Perimeter":98.0490014565,
-            "Area":321.672887074,
-            "Acres":79487.1014681,
-            "Hectares":32167.2887074,
-            "Jumlah_Pen":"28.791",
-            "Kepadatan":"69"
+            "NAMA_KABUPATEN":"KAB. BATANGHARI",
+            "IBUKOTA_KECAMATAN":"Muara Tembesi",
+            "JUMLAH_PENDUDUK":"28.791"
          }
       },
       {
@@ -4390,17 +4372,11 @@
             ]
          },
          "properties":{
-            "OBJECTID":"5",
             "NAMA_PROP":"Jambi",
             "KECAMATAN":"KEC. BATHIN XXIV",
-            "NAMA_KABUP":"KAB. BATANGHARI",
-            "IBUKOTA_KE":"Muara Jangga",
-            "Perimeter":137.608780863,
-            "Area":857.388089756,
-            "Acres":211865.210984,
-            "Hectares":85738.8089756,
-            "Jumlah_Pen":"26.632",
-            "Kepadatan":"29"
+            "NAMA_KABUPATEN":"KAB. BATANGHARI",
+            "IBUKOTA_KECAMATAN":"Muara Jangga",
+            "JUMLAH_PENDUDUK":"26.632"
          }
       },
       {
@@ -7125,17 +7101,11 @@
             ]
          },
          "properties":{
-            "OBJECTID":"6",
             "NAMA_PROP":"Jambi",
             "KECAMATAN":"KEC. MAROSEBO ULU",
-            "NAMA_KABUP":"KAB. BATANGHARI",
-            "IBUKOTA_KE":"Simpang Sungai Rengas",
-            "Perimeter":192.488486424,
-            "Area":878.867757264,
-            "Acres":217172.952418,
-            "Hectares":87886.7757264,
-            "Jumlah_Pen":"31.031",
-            "Kepadatan":"34"
+            "NAMA_KABUPATEN":"KAB. BATANGHARI",
+            "IBUKOTA_KECAMATAN":"Simpang Sungai Rengas",
+            "JUMLAH_PENDUDUK":"31.031"
          }
       },
       {
@@ -9300,17 +9270,11 @@
             ]
          },
          "properties":{
-            "OBJECTID":"7",
             "NAMA_PROP":"Jambi",
             "KECAMATAN":"KEC. MERSAM",
-            "NAMA_KABUP":"KAB. BATANGHARI",
-            "IBUKOTA_KE":"Kembang Paseban",
-            "Perimeter":132.337629116,
-            "Area":779.127564337,
-            "Acres":192526.613997,
-            "Hectares":77912.7564337,
-            "Jumlah_Pen":"27.220",
-            "Kepadatan":"34"
+            "NAMA_KABUPATEN":"KAB. BATANGHARI",
+            "IBUKOTA_KECAMATAN":"Kembang Paseban",
+            "JUMLAH_PENDUDUK":"27.220"
          }
       },
       {
@@ -11735,17 +11699,11 @@
             ]
          },
          "properties":{
-            "OBJECTID":"8",
             "NAMA_PROP":"Jambi",
             "KECAMATAN":"KEC. BAJUBANG",
-            "NAMA_KABUP":"KAB. BATANGHARI",
-            "IBUKOTA_KE":"Bejubang",
-            "Perimeter":221.594561719,
-            "Area":1217.3472875,
-            "Acres":300813.065857,
-            "Hectares":121734.72875,
-            "Jumlah_Pen":"37.512",
-            "Kepadatan":"31"
+            "NAMA_KABUPATEN":"KAB. BATANGHARI",
+            "IBUKOTA_KECAMATAN":"Bejubang",
+            "JUMLAH_PENDUDUK":"37.512"
          }
       },
       {
@@ -12774,17 +12732,11 @@
             ]
          },
          "properties":{
-            "OBJECTID":"3",
             "NAMA_PROP":"Jambi",
             "KECAMATAN":"KEC. MUARA BULIAN",
-            "NAMA_KABUP":"KAB. BATANGHARI",
-            "IBUKOTA_KE":"Muara Bulian",
-            "Perimeter":98.9730242455,
-            "Area":340.48715191,
-            "Acres":84136.2075573,
-            "Hectares":34048.715191,
-            "Jumlah_Pen":"58.082",
-            "Kepadatan":"139"
+            "NAMA_KABUPATEN":"KAB. BATANGHARI",
+            "IBUKOTA_KECAMATAN":"Muara Bulian",
+            "JUMLAH_PENDUDUK":"58.082"
          }
       }
    ]
