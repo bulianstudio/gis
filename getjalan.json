@@ -1,0 +1,1932 @@
+[
+    {
+        "id": 1,
+        "no_ruas": "001",
+        "nama_ruas": "Jl. Ds. Pompa Air - Ds. Bungku",
+        "panjang": 20.45,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:29:59",
+        "updated_at": "2019-06-28 07:29:59"
+    },
+    {
+        "id": 2,
+        "no_ruas": "002",
+        "nama_ruas": "Jl. Ds. Kilangan - Ds. Pompa Air",
+        "panjang": 12.35,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:29:59",
+        "updated_at": "2019-06-28 07:29:59"
+    },
+    {
+        "id": 3,
+        "no_ruas": "003",
+        "nama_ruas": "Jl. Ness - Jl. Lingkar Sei. Buluh",
+        "panjang": 3.13,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:29:59",
+        "updated_at": "2019-06-28 07:29:59"
+    },
+    {
+        "id": 4,
+        "no_ruas": "004",
+        "nama_ruas": "Jl. Ds. Mekar Sari Ness VIIIA - Ds. Mekar Sari Ness VIIIB",
+        "panjang": 2.415,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 5,
+        "no_ruas": "005",
+        "nama_ruas": "Jl. Kampung Baru Bajubang - Ds. Mekar Sari Ness",
+        "panjang": 4.9,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 6,
+        "no_ruas": "006",
+        "nama_ruas": "Jl. Sp. Kilangan - Ds. Mekar Jaya",
+        "panjang": 7.1,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 7,
+        "no_ruas": "007",
+        "nama_ruas": "Jl. Ness II - Ds. Petajen",
+        "panjang": 1.9,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 8,
+        "no_ruas": "008",
+        "nama_ruas": "Jl. Kampung Baru Bajubang - Ness II",
+        "panjang": 6.3,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 9,
+        "no_ruas": "009",
+        "nama_ruas": "Jl. Ds. Pompa Air - Ds. Sungkai",
+        "panjang": 6.2,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 10,
+        "no_ruas": "010",
+        "nama_ruas": "Jl. Ds. Penerokan Km 49 - Ness II Bajubang",
+        "panjang": 4,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 11,
+        "no_ruas": "011",
+        "nama_ruas": "Jl. Sp. Gedung Batang Hari - Sp. Jambi",
+        "panjang": 1.7,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 12,
+        "no_ruas": "012",
+        "nama_ruas": "Jl. Sp. Ladang Peris - Ds. Ladang Peris Baru",
+        "panjang": 8.8,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 13,
+        "no_ruas": "013",
+        "nama_ruas": "Jl. Sp. Petajen - Jl. Lintas Sei. Buluh",
+        "panjang": 11,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 14,
+        "no_ruas": "014",
+        "nama_ruas": "Jl. Sp. Jambi - Ds. Sungkai (Sp. Telkom)",
+        "panjang": 10,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 15,
+        "no_ruas": "015",
+        "nama_ruas": "Jl. Ds. Pompa Air- Ds. Ladang Peris",
+        "panjang": 7.6,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 16,
+        "no_ruas": "016",
+        "nama_ruas": "Jl. Ds. Bungku - Sp. Jl. Mekar Jaya",
+        "panjang": 2.19,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 17,
+        "no_ruas": "017",
+        "nama_ruas": "Jl. Ds. Sei Buluh RT. 05, RT. 06",
+        "panjang": 7.67,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 18,
+        "no_ruas": "018",
+        "nama_ruas": "Jl. Ladang Peris - Ds. Sungkai",
+        "panjang": 4.6,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 19,
+        "no_ruas": "019",
+        "nama_ruas": "Jl. Sp. Kantor Camat Bajubang - Sp. Jambi",
+        "panjang": 3.05,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 20,
+        "no_ruas": "020",
+        "nama_ruas": "Jl. Laman Teras - Ds. Pompa Air",
+        "panjang": 5,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 21,
+        "no_ruas": "021",
+        "nama_ruas": "Jl. Dsn. Rasau (Ds.Bungku)",
+        "panjang": 3.5,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 22,
+        "no_ruas": "022",
+        "nama_ruas": "Jl. Kampung Baru - Kel. Bajubang",
+        "panjang": 1.5,
+        "lebar": "10.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 23,
+        "no_ruas": "023",
+        "nama_ruas": "Jl. Ladang Peris - Ds. Karang Anyer",
+        "panjang": 1,
+        "lebar": "7.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 24,
+        "no_ruas": "024",
+        "nama_ruas": "Jl. Ds. Mekar Jaya - Ds. Mekar Jaya",
+        "panjang": 4.275,
+        "lebar": "12.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 25,
+        "no_ruas": "025",
+        "nama_ruas": "Jl. Ds. Petajen - RT. 07 RT. 06 Sei. Buluh",
+        "panjang": 4.1,
+        "lebar": "12.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 26,
+        "no_ruas": "026",
+        "nama_ruas": "Jl. Ds. Singkawang - Ds. Pompa Urung",
+        "panjang": 3.5,
+        "lebar": "12.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 27,
+        "no_ruas": "027",
+        "nama_ruas": "Jl. Ds. Pompa Air Dusun 1 - Jl. SMK 7 Pompa Air",
+        "panjang": 6,
+        "lebar": "12.00",
+        "kecamatan": "Bajubang",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 28,
+        "no_ruas": "028",
+        "nama_ruas": "Jl. Sp. Karmeo - Ds. Karmeo",
+        "panjang": 3.5,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 29,
+        "no_ruas": "029",
+        "nama_ruas": "Jl. Sp. Koto Boyo - Ds. Koto Boyo",
+        "panjang": 2.45,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 30,
+        "no_ruas": "030",
+        "nama_ruas": "Jl. Sp. Jelutih - Ds. Jelutih",
+        "panjang": 5.15,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 31,
+        "no_ruas": "031",
+        "nama_ruas": "Jl. Sp. Bungin Panjang - Ds. Sei. Aur",
+        "panjang": 10,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 32,
+        "no_ruas": "032",
+        "nama_ruas": "Jl. Muara Jangga - Ds. Matagual",
+        "panjang": 0.93,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 33,
+        "no_ruas": "033",
+        "nama_ruas": "Jl. Sp. Paku Aji - Ds. Paku Aji",
+        "panjang": 1.8,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 34,
+        "no_ruas": "034",
+        "nama_ruas": "Jl. Sp. Olak Jong - Ds. Olak Jong",
+        "panjang": 2,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 35,
+        "no_ruas": "035",
+        "nama_ruas": "Jl. Ds. Senami - Ds. Jangga Baru",
+        "panjang": 20.3,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 36,
+        "no_ruas": "036",
+        "nama_ruas": "Jl. Sp. Durian Luncuk - Ds. Jangga Baru",
+        "panjang": 25,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 37,
+        "no_ruas": "037",
+        "nama_ruas": "Jl. Ds. Terentang Baru - Batas Sarko",
+        "panjang": 3,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 38,
+        "no_ruas": "038",
+        "nama_ruas": "Jl. Ds. Jangga Baru - Batas Sarko",
+        "panjang": 5,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 39,
+        "no_ruas": "039",
+        "nama_ruas": "Jl. Ds. Jelutih - Jl. Lintas Sarolangun",
+        "panjang": 5.4,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 40,
+        "no_ruas": "040",
+        "nama_ruas": "Jl. Ds. Jangga Baru - Ds. Bulian Baru",
+        "panjang": 3.09,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 41,
+        "no_ruas": "041",
+        "nama_ruas": "Jl. Ds. Koto Boyo - Ds. Matagual",
+        "panjang": 7.765,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 42,
+        "no_ruas": "042",
+        "nama_ruas": "Jl. Ds. Matagual - Ds. Hajran",
+        "panjang": 2.558,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 43,
+        "no_ruas": "043",
+        "nama_ruas": "Jl. SMP 12 -  Ds. Terentang Baru",
+        "panjang": 3.37,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 44,
+        "no_ruas": "044",
+        "nama_ruas": "Jl. Ds. Jangga Aur - Ds. Terentang Baru",
+        "panjang": 8.2,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 45,
+        "no_ruas": "045",
+        "nama_ruas": "Jl. Ds. Hajran - Ds. Olak Besar",
+        "panjang": 9.5,
+        "lebar": "12.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 46,
+        "no_ruas": "046",
+        "nama_ruas": "Jl. Ds. Aur Gading - Danau Hugo",
+        "panjang": 1.3,
+        "lebar": "12.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 47,
+        "no_ruas": "047",
+        "nama_ruas": "Jl. Sincong (Ds. Simpang Karmeo)",
+        "panjang": 2,
+        "lebar": "10.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 48,
+        "no_ruas": "048",
+        "nama_ruas": "Jl. PDAM Durian Luncuk",
+        "panjang": 0.738,
+        "lebar": "9.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 49,
+        "no_ruas": "049",
+        "nama_ruas": "Jl. Sp. Aur Gading - Aur Gading",
+        "panjang": 2,
+        "lebar": "12.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 50,
+        "no_ruas": "050",
+        "nama_ruas": "Jl. Ds. Sido Mulyo - Ds. Sido Mukti",
+        "panjang": 2.8,
+        "lebar": "9.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 51,
+        "no_ruas": "051",
+        "nama_ruas": "Jl. Seberang Koto Boyo - Bts. Seberang Mersam",
+        "panjang": 5.893,
+        "lebar": "12.00",
+        "kecamatan": "Batin XXIV",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 52,
+        "no_ruas": "052",
+        "nama_ruas": "Jl. Sp. Bukit Paku - Ds. Terusan",
+        "panjang": 13.4,
+        "lebar": "9.00",
+        "kecamatan": "Maro Sebo Ilir",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 53,
+        "no_ruas": "053",
+        "nama_ruas": "Jl. Ds. Danau Embat - Ds. Bulian Jaya",
+        "panjang": 15.5,
+        "lebar": "10.00",
+        "kecamatan": "Maro Sebo Ilir",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 54,
+        "no_ruas": "054",
+        "nama_ruas": "Jl. Sialang Pungguk - Ma. Singoan",
+        "panjang": 7.71,
+        "lebar": "10.00",
+        "kecamatan": "Maro Sebo Ilir",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 55,
+        "no_ruas": "055",
+        "nama_ruas": "Jl. Sp. Karya Mukti - Ds. Karya Mukti",
+        "panjang": 3.7,
+        "lebar": "12.00",
+        "kecamatan": "Maro Sebo Ilir",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 56,
+        "no_ruas": "056",
+        "nama_ruas": "Jl. Ds. Kehidupan Baru (SP. V)",
+        "panjang": 5.5,
+        "lebar": "9.00",
+        "kecamatan": "Maro Sebo Ilir",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 57,
+        "no_ruas": "057",
+        "nama_ruas": "Jl. Ds. Danau Embat - Ds. Kehidupan Baru",
+        "panjang": 5.45,
+        "lebar": "9.00",
+        "kecamatan": "Maro Sebo Ilir",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 58,
+        "no_ruas": "058",
+        "nama_ruas": "Jl. Ds. Tidar Kuranji - Ds. Karya Mukti Blok B",
+        "panjang": 7,
+        "lebar": "10.00",
+        "kecamatan": "Maro Sebo Ilir",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 59,
+        "no_ruas": "059",
+        "nama_ruas": "Jl. Bulian Jaya - Ds. Bukit Sari",
+        "panjang": 7.25,
+        "lebar": "10.00",
+        "kecamatan": "Maro Sebo Ilir",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 60,
+        "no_ruas": "060",
+        "nama_ruas": "Jl. Sp. Masjid Ds. Tidar Kuranji - Dusun 4, 5, 6",
+        "panjang": 3,
+        "lebar": "9.00",
+        "kecamatan": "Maro Sebo Ilir",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 61,
+        "no_ruas": "061",
+        "nama_ruas": "Jl. Ds. Terusan - Ujung Tanjung",
+        "panjang": 10,
+        "lebar": "10.00",
+        "kecamatan": "Maro Sebo Ilir",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 62,
+        "no_ruas": "062",
+        "nama_ruas": "Jl. Ds. Bukit Paku - Ds. Bulian Jaya",
+        "panjang": 29,
+        "lebar": "12.00",
+        "kecamatan": "Maro Sebo Ilir",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 63,
+        "no_ruas": "063",
+        "nama_ruas": "Jl. Sp. Sei Ruan - Ds. Rantau Gedang",
+        "panjang": 15.55,
+        "lebar": "10.00",
+        "kecamatan": "Maro Sebo Ulu",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 64,
+        "no_ruas": "064",
+        "nama_ruas": "Jl. Sp. Sei. Rengas - Ds. Peninjauan",
+        "panjang": 18,
+        "lebar": "10.00",
+        "kecamatan": "Maro Sebo Ulu",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 65,
+        "no_ruas": "065",
+        "nama_ruas": "Jl. Sp. Kembang Seri - Ds. Kembang Seri",
+        "panjang": 3.875,
+        "lebar": "10.00",
+        "kecamatan": "Maro Sebo Ulu",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 66,
+        "no_ruas": "066",
+        "nama_ruas": "Jl. Sp. PDI - Sp. Beringin - Batu Sawar (Bts. Tebo)",
+        "panjang": 50.337,
+        "lebar": "12.00",
+        "kecamatan": "Maro Sebo Ulu",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 67,
+        "no_ruas": "067",
+        "nama_ruas": "Jl. Ds. Teluk Leban - Jalan Lintas Tebo",
+        "panjang": 6.917,
+        "lebar": "12.00",
+        "kecamatan": "Maro Sebo Ulu",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 68,
+        "no_ruas": "068",
+        "nama_ruas": "Jl. Seberang Sei. Ruan - Sp. Beringin",
+        "panjang": 11.28,
+        "lebar": "12.00",
+        "kecamatan": "Maro Sebo Ulu",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 69,
+        "no_ruas": "069",
+        "nama_ruas": "Jl. Tebing Tinggi - Pondok Pesantren",
+        "panjang": 0.65,
+        "lebar": "9.00",
+        "kecamatan": "Maro Sebo Ulu",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 70,
+        "no_ruas": "070",
+        "nama_ruas": "JN. Km. 122 - Jl. Sp. Puskesmas Sei. Rengas",
+        "panjang": 4.5,
+        "lebar": "12.00",
+        "kecamatan": "Maro Sebo Ulu",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 71,
+        "no_ruas": "071",
+        "nama_ruas": "JN. Km. 130,5 - Ds. Kembang Seri",
+        "panjang": 4.5,
+        "lebar": "12.00",
+        "kecamatan": "Maro Sebo Ulu",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 72,
+        "no_ruas": "072",
+        "nama_ruas": "Jl. Ds. Tebing Tinggi - Ds. Rawa Mekar",
+        "panjang": 4,
+        "lebar": "12.00",
+        "kecamatan": "Maro Sebo Ulu",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 73,
+        "no_ruas": "073",
+        "nama_ruas": "Jl. Ds. Rawa Mekar - SP. IV",
+        "panjang": 8,
+        "lebar": "10.00",
+        "kecamatan": "Maro Sebo Ulu",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 74,
+        "no_ruas": "074",
+        "nama_ruas": "Jl. Sp. Sei. Puar - Ds. Sei. Puar",
+        "panjang": 3.2,
+        "lebar": "10.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 75,
+        "no_ruas": "075",
+        "nama_ruas": "Jl. Sp. Mersam - Ds. Mersam",
+        "panjang": 9.85,
+        "lebar": "10.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 76,
+        "no_ruas": "076",
+        "nama_ruas": "Jl. Sp. Rantau Gedang - Ds. Rantau Gedang",
+        "panjang": 5.87,
+        "lebar": "10.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 77,
+        "no_ruas": "077",
+        "nama_ruas": "Jl. Sp. Benteng Redah - Sp. Trans Suaka Mandiri",
+        "panjang": 7,
+        "lebar": "10.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 78,
+        "no_ruas": "078",
+        "nama_ruas": "Jl. Sp. Sengkati Baru - Ds. Bukit Harapan",
+        "panjang": 17.5,
+        "lebar": "10.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 79,
+        "no_ruas": "079",
+        "nama_ruas": "Jl. UPT Mersam I - UPT Mersam II",
+        "panjang": 8,
+        "lebar": "10.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 80,
+        "no_ruas": "080",
+        "nama_ruas": "Jl. Sp. Sei. Gondang - Ds. Sei. Gondang",
+        "panjang": 1.15,
+        "lebar": "10.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 81,
+        "no_ruas": "081",
+        "nama_ruas": "Jl. Ds. Pematang Gadung - Ds. Pematang Gadung",
+        "panjang": 2.63,
+        "lebar": "9.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 82,
+        "no_ruas": "082",
+        "nama_ruas": "Jl. Sp. Rantau Gedang - Ds. Tapah Sari",
+        "panjang": 12.8,
+        "lebar": "10.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 83,
+        "no_ruas": "083",
+        "nama_ruas": "Jl. Sp. Pematang Gadung - Trans Suaka Mandiri",
+        "panjang": 5.1,
+        "lebar": "12.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 84,
+        "no_ruas": "084",
+        "nama_ruas": "Jl. Ds. Benteng Rendah - Pematang Gadung",
+        "panjang": 8,
+        "lebar": "10.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 85,
+        "no_ruas": "085",
+        "nama_ruas": "Jl. Pematang Gadung Dalam - Trans Suaka Mandiri",
+        "panjang": 8,
+        "lebar": "12.00",
+        "kecamatan": "Mersam",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 86,
+        "no_ruas": "086",
+        "nama_ruas": "Jl. Sp. Terusan - Pasar Terusan",
+        "panjang": 4.5,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 87,
+        "no_ruas": "087",
+        "nama_ruas": "Jl. Sp. Bajubang Laut - Ds. Sei. Baung",
+        "panjang": 6.3,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 88,
+        "no_ruas": "088",
+        "nama_ruas": "Jl. Ds. Teratai - Komplek Air Panas",
+        "panjang": 2.14,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 89,
+        "no_ruas": "089",
+        "nama_ruas": "Jl. Sp. Malapari - Ds. Malapari",
+        "panjang": 8,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 90,
+        "no_ruas": "090",
+        "nama_ruas": "Jl. Sp. Napal Sisik - Ds. Malapari",
+        "panjang": 10.89,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 91,
+        "no_ruas": "091",
+        "nama_ruas": "Jl. Sp. Ds. Tenam - Ds. Sridadi",
+        "panjang": 11,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 92,
+        "no_ruas": "092",
+        "nama_ruas": "Jl. Paal VI Muara Bulian - Ds. Sei. Buluh",
+        "panjang": 8.23,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 93,
+        "no_ruas": "093",
+        "nama_ruas": "Jl. Sp. Bajubang Laut - Ds. Bajubang Laut",
+        "panjang": 1.2,
+        "lebar": "9.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 94,
+        "no_ruas": "094",
+        "nama_ruas": "Jl. Seberang Muara Bulian - Ds. Bulian Jaya",
+        "panjang": 18.58,
+        "lebar": "12.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 95,
+        "no_ruas": "095",
+        "nama_ruas": "Jl. Sp. Tenam - Ds. Tenam",
+        "panjang": 0.6,
+        "lebar": "8.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 96,
+        "no_ruas": "096",
+        "nama_ruas": "Jl. Komplek Mia Terusan",
+        "panjang": 0.45,
+        "lebar": "8.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 97,
+        "no_ruas": "097",
+        "nama_ruas": "Jl. Rangkayo Hitam - SMU N 6",
+        "panjang": 0.6,
+        "lebar": "8.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 98,
+        "no_ruas": "098",
+        "nama_ruas": "Jl. Sp. Singkawang - Ds. Singkawang",
+        "panjang": 2.05,
+        "lebar": "9.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 99,
+        "no_ruas": "099",
+        "nama_ruas": "Jl. MTS Sridadi",
+        "panjang": 0.46,
+        "lebar": "8.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 100,
+        "no_ruas": "100",
+        "nama_ruas": "Jl. Drs. Abd. Majid Bujang",
+        "panjang": 0.73,
+        "lebar": "15.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 101,
+        "no_ruas": "101",
+        "nama_ruas": "Jl. Dua Putra - Mesjid Al muwazdapin",
+        "panjang": 0.3,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 102,
+        "no_ruas": "102",
+        "nama_ruas": "Jl. Talang Inuman - Kampung Tengah",
+        "panjang": 1.54,
+        "lebar": "12.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 103,
+        "no_ruas": "103",
+        "nama_ruas": "Jl. Ds. Aro - Ds. Bukit Sari",
+        "panjang": 20,
+        "lebar": "12.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 104,
+        "no_ruas": "104",
+        "nama_ruas": "Jl. Jend. Sudirman - Jl. Drs. Abd. Majid Bujang",
+        "panjang": 2.19,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 105,
+        "no_ruas": "105",
+        "nama_ruas": "Jl. Melati (Hutan Lindung)",
+        "panjang": 0.38,
+        "lebar": "8.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 106,
+        "no_ruas": "106",
+        "nama_ruas": "Jl. Prof. Dr. Sri Sudewi",
+        "panjang": 0.75,
+        "lebar": "15.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 107,
+        "no_ruas": "107",
+        "nama_ruas": "Jl. Sultan Thaha",
+        "panjang": 2.25,
+        "lebar": "15.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 108,
+        "no_ruas": "108",
+        "nama_ruas": "Jl. Pramuka - Jl. Putri Selero Pinang Masak",
+        "panjang": 2.31,
+        "lebar": "12.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 109,
+        "no_ruas": "109",
+        "nama_ruas": "Jl. Lintas Sridadi - Jl. Abdul Muthalib",
+        "panjang": 4.6,
+        "lebar": "12.50",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 110,
+        "no_ruas": "110",
+        "nama_ruas": "Jl. Jendral A. Yani",
+        "panjang": 1.5,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 111,
+        "no_ruas": "111",
+        "nama_ruas": "Jl. Penindah",
+        "panjang": 2.43,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 112,
+        "no_ruas": "112",
+        "nama_ruas": "Jl. Kol. Pol. M. Thaher",
+        "panjang": 0.9,
+        "lebar": "8.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 113,
+        "no_ruas": "113",
+        "nama_ruas": "Jl. Rd. M. Thaher",
+        "panjang": 0.3,
+        "lebar": "8.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 114,
+        "no_ruas": "114",
+        "nama_ruas": "Jl. Kol. Abunjani",
+        "panjang": 0.663,
+        "lebar": "8.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 115,
+        "no_ruas": "115",
+        "nama_ruas": "Jl. Kapt. Abu Bakar",
+        "panjang": 0.32,
+        "lebar": "8.50",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 116,
+        "no_ruas": "116",
+        "nama_ruas": "Jl. Kelapa Gading",
+        "panjang": 0.51,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 117,
+        "no_ruas": "117",
+        "nama_ruas": "Jl. Rang Kayo Hitam",
+        "panjang": 1.56,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 118,
+        "no_ruas": "118",
+        "nama_ruas": "Jl. Kopral Dahlan Kenis",
+        "panjang": 2.2,
+        "lebar": "8.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 119,
+        "no_ruas": "119",
+        "nama_ruas": "Jl. Putri Selero Pinang Masak",
+        "panjang": 1.1,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 120,
+        "no_ruas": "120",
+        "nama_ruas": "Jl. Abd. Muthalib",
+        "panjang": 5.222,
+        "lebar": "12.50",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 121,
+        "no_ruas": "121",
+        "nama_ruas": "Jl. Madura",
+        "panjang": 0.25,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 122,
+        "no_ruas": "122",
+        "nama_ruas": "Jl. Jawa",
+        "panjang": 0.25,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 123,
+        "no_ruas": "123",
+        "nama_ruas": "Jl. Telago Putri",
+        "panjang": 0.17,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 124,
+        "no_ruas": "124",
+        "nama_ruas": "Jl. Pinang Merah",
+        "panjang": 0.28,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 125,
+        "no_ruas": "125",
+        "nama_ruas": "Jl. Sungkai",
+        "panjang": 0.74,
+        "lebar": "9.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 126,
+        "no_ruas": "126",
+        "nama_ruas": "Jl. Irian Jaya",
+        "panjang": 0.3,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 127,
+        "no_ruas": "127",
+        "nama_ruas": "Jl. Kulim",
+        "panjang": 0.5,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 128,
+        "no_ruas": "128",
+        "nama_ruas": "Jl. Ks. Tubun",
+        "panjang": 0.3,
+        "lebar": "8.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 129,
+        "no_ruas": "129",
+        "nama_ruas": "Jl. Bulian - Palem Raya",
+        "panjang": 0.365,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 130,
+        "no_ruas": "130",
+        "nama_ruas": "Jl. Candi Tinggi",
+        "panjang": 0.1,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 131,
+        "no_ruas": "131",
+        "nama_ruas": "Jl. Gumpung",
+        "panjang": 0.1,
+        "lebar": "4.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 132,
+        "no_ruas": "132",
+        "nama_ruas": "Jl. Mas Surat Mas",
+        "panjang": 0.38,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 133,
+        "no_ruas": "133",
+        "nama_ruas": "Jl. Bayan Lais",
+        "panjang": 0.7,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 134,
+        "no_ruas": "134",
+        "nama_ruas": "Jl. Beringin Sakti",
+        "panjang": 0.7,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 135,
+        "no_ruas": "135",
+        "nama_ruas": "Jl. Suratman",
+        "panjang": 3.9,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 136,
+        "no_ruas": "136",
+        "nama_ruas": "Jl. Harapan Maju",
+        "panjang": 1,
+        "lebar": "4.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 137,
+        "no_ruas": "137",
+        "nama_ruas": "Jl. Gotong Royong",
+        "panjang": 0.5,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 138,
+        "no_ruas": "138",
+        "nama_ruas": "Jl. Kalimantan",
+        "panjang": 0.3,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 139,
+        "no_ruas": "139",
+        "nama_ruas": "Jl. Sumatera",
+        "panjang": 0.35,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 140,
+        "no_ruas": "140",
+        "nama_ruas": "Jl. Sulawesi",
+        "panjang": 0.27,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 141,
+        "no_ruas": "141",
+        "nama_ruas": "Jl. Sp. Teratai - Ds. Sei. Baung",
+        "panjang": 8,
+        "lebar": "9.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 142,
+        "no_ruas": "142",
+        "nama_ruas": "Jl. Ds. Singkawang - Proyek Sosial",
+        "panjang": 2,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 143,
+        "no_ruas": "143",
+        "nama_ruas": "Jl. Marlian",
+        "panjang": 0.222,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 144,
+        "no_ruas": "144",
+        "nama_ruas": "Jl. Belakang Asrama Polres",
+        "panjang": 0.172,
+        "lebar": "7.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 145,
+        "no_ruas": "145",
+        "nama_ruas": "Jl. Tanjung Kel. Rengas Condong",
+        "panjang": 0.18,
+        "lebar": "4.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 146,
+        "no_ruas": "146",
+        "nama_ruas": "Jl. Ds. Olak - Ds. Teratai",
+        "panjang": 3.9,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 147,
+        "no_ruas": "147",
+        "nama_ruas": "Jl. Ds. Sridadi - Ds. Singkawang",
+        "panjang": 6.6,
+        "lebar": "12.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 148,
+        "no_ruas": "148",
+        "nama_ruas": "Jl. Sp. Sridadi - Ds. Senami",
+        "panjang": 10.2,
+        "lebar": "10.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 149,
+        "no_ruas": "149",
+        "nama_ruas": "Jl. Sp. Sei. Rumbai - Ds. Rambutan Masam",
+        "panjang": 10.13,
+        "lebar": "9.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 150,
+        "no_ruas": "150",
+        "nama_ruas": "Jl. Ds. Rantau Kapas Mudo - Pasar Terusan",
+        "panjang": 10.8,
+        "lebar": "9.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 151,
+        "no_ruas": "151",
+        "nama_ruas": "Jl. Sp. Ampelu - Ampelu",
+        "panjang": 2.375,
+        "lebar": "9.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 152,
+        "no_ruas": "152",
+        "nama_ruas": "Jl. Sp. PU Seksi - Ds. Tantan",
+        "panjang": 7.2,
+        "lebar": "10.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 153,
+        "no_ruas": "153",
+        "nama_ruas": "Jl. Sp. Tanjung Marwo - Ds. Penyaringan",
+        "panjang": 1.52,
+        "lebar": "9.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 154,
+        "no_ruas": "154",
+        "nama_ruas": "Jl. Ds. Jebak - Ds. Bukit Tembesu",
+        "panjang": 2.5,
+        "lebar": "9.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 155,
+        "no_ruas": "155",
+        "nama_ruas": "Jl. Samping Kantor Camat Tembesi - Kebun Jeruk",
+        "panjang": 1.5,
+        "lebar": "9.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 156,
+        "no_ruas": "156",
+        "nama_ruas": "Jl. Sp. Pasar Tembesi - Ds. Suka Ramai",
+        "panjang": 3.5,
+        "lebar": "10.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 157,
+        "no_ruas": "157",
+        "nama_ruas": "Jl. Sp. Suka Ramai - Ds. Suka Ramai",
+        "panjang": 0.67,
+        "lebar": "10.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 158,
+        "no_ruas": "158",
+        "nama_ruas": "Jl. Ds. Sei. Pulai - Sei. Pulai",
+        "panjang": 5.355,
+        "lebar": "10.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 159,
+        "no_ruas": "159",
+        "nama_ruas": "Jl. Ds. Pulau",
+        "panjang": 7,
+        "lebar": "9.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 160,
+        "no_ruas": "160",
+        "nama_ruas": "Jl. Sp. Ds. Pelayangan - Ds. Rambutan Masam",
+        "panjang": 6,
+        "lebar": "12.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 161,
+        "no_ruas": "161",
+        "nama_ruas": "Jl. Ds. Rambutan Masam - Ds. Sei. Pulai",
+        "panjang": 4.612,
+        "lebar": "12.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 162,
+        "no_ruas": "162",
+        "nama_ruas": "Jl. Tembesi - Ds. Kampung Baru",
+        "panjang": 4,
+        "lebar": "12.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 163,
+        "no_ruas": "163",
+        "nama_ruas": "Jl. Kampung Baru - Lintas Sarolangun",
+        "panjang": 3.9,
+        "lebar": "10.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 164,
+        "no_ruas": "164",
+        "nama_ruas": "Jl. Ampelu Mudo - Ds. Talang Kudo",
+        "panjang": 11,
+        "lebar": "10.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 165,
+        "no_ruas": "165",
+        "nama_ruas": "Jl. Rantau Kapas Tuo - Ds. Pelayangan",
+        "panjang": 4,
+        "lebar": "12.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 166,
+        "no_ruas": "166",
+        "nama_ruas": "Jl. Ds. Empelu Mudo - Ds. Tenam",
+        "panjang": 14,
+        "lebar": "12.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 167,
+        "no_ruas": "167",
+        "nama_ruas": "Jl. Ds. Kampung Baru - Ds. Kampung Baru",
+        "panjang": 6,
+        "lebar": "12.00",
+        "kecamatan": "Muara Tembesi",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 168,
+        "no_ruas": "168",
+        "nama_ruas": "Jl. Sp. Selat - Ds. Selat",
+        "panjang": 2.5,
+        "lebar": "9.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 169,
+        "no_ruas": "169",
+        "nama_ruas": "Jl. Ds. Selat - Ds. Teluk",
+        "panjang": 4.1,
+        "lebar": "10.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 170,
+        "no_ruas": "170",
+        "nama_ruas": "Jl. Ds. Selat - Ds. Lubuk Ruso",
+        "panjang": 11.88,
+        "lebar": "10.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 171,
+        "no_ruas": "171",
+        "nama_ruas": "Jl. Sp. Jembatan Mas - Ds. Lubuk Ruso",
+        "panjang": 5.8100000000000005,
+        "lebar": "9.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 172,
+        "no_ruas": "172",
+        "nama_ruas": "Jl. Sp. Pulau Betung - Ds. Pulau Betung",
+        "panjang": 2.9,
+        "lebar": "9.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 173,
+        "no_ruas": "173",
+        "nama_ruas": "Jl. Sp. Kubu Kandang - Ds. Lubuk Ruso",
+        "panjang": 11.45,
+        "lebar": "10.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 174,
+        "no_ruas": "174",
+        "nama_ruas": "Jl. Sp. Tebing Tinggi - RT. 02 - Ds. Tebing Tinggi",
+        "panjang": 1.3,
+        "lebar": "9.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 175,
+        "no_ruas": "175",
+        "nama_ruas": "Jl. Sp. Jembatan Mas - Rasau",
+        "panjang": 11.22,
+        "lebar": "10.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 176,
+        "no_ruas": "176",
+        "nama_ruas": "Jl. Ds. Selat - Ds. Sei. Anak",
+        "panjang": 2.45,
+        "lebar": "10.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 177,
+        "no_ruas": "177",
+        "nama_ruas": "Jl. Sp. Serasah - Sarang Elang",
+        "panjang": 3.5,
+        "lebar": "10.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 178,
+        "no_ruas": "178",
+        "nama_ruas": "Jl. Sp. Serasah - Ds. Awin",
+        "panjang": 5.43,
+        "lebar": "10.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 179,
+        "no_ruas": "179",
+        "nama_ruas": "Sp. Rantau Puri - Ds. Kampung Pulau",
+        "panjang": 2.75,
+        "lebar": "10.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 180,
+        "no_ruas": "180",
+        "nama_ruas": "Jl. Sp. Lopak Aur - Ds. Lopak Aur",
+        "panjang": 1.6600000000000001,
+        "lebar": "9.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 181,
+        "no_ruas": "181",
+        "nama_ruas": "Jl. Pl. Raman - Kaos - Ds. Suak Putat",
+        "panjang": 7.925,
+        "lebar": "9.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 182,
+        "no_ruas": "182",
+        "nama_ruas": "Jl. SMPN 17 Jembatan Mas - SMA 8 Jembatan Mas",
+        "panjang": 2.02,
+        "lebar": "9.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 183,
+        "no_ruas": "183",
+        "nama_ruas": "Jl. Ds. Tebing Tinggi - Ds. Rasau",
+        "panjang": 8.316,
+        "lebar": "10.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 184,
+        "no_ruas": "184",
+        "nama_ruas": "Jl. Seberang Teluk Ketapang - Ds. Semangkat",
+        "panjang": 6.7,
+        "lebar": "10.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 185,
+        "no_ruas": "185",
+        "nama_ruas": "Jl. Ds. Teluk - Sematang Danau",
+        "panjang": 4.55,
+        "lebar": "10.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 186,
+        "no_ruas": "186",
+        "nama_ruas": "Jl. Sp. Pesantren Darus Syafiiyah (Ds. Kampung Pulau)",
+        "panjang": 0.5,
+        "lebar": "8.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 187,
+        "no_ruas": "187",
+        "nama_ruas": "Jl. Danau Laut - Sei. Genting",
+        "panjang": 3,
+        "lebar": "12.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 188,
+        "no_ruas": "188",
+        "nama_ruas": "Jl. Ds. Rasau - Ds. Petajen",
+        "panjang": 4.2,
+        "lebar": "12.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 189,
+        "no_ruas": "189",
+        "nama_ruas": "Jl. Jembatan Mas RT. 11 - Ds. Senaning",
+        "panjang": 3.5,
+        "lebar": "12.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 190,
+        "no_ruas": "190",
+        "nama_ruas": "Jl. Sp. Kasang Ubi - Sei. Anak",
+        "panjang": 2.9,
+        "lebar": "9.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 191,
+        "no_ruas": "191",
+        "nama_ruas": "Jl. Talang Gambir - Ds. Kasang Tinggi",
+        "panjang": 4.5,
+        "lebar": "9.00",
+        "kecamatan": "Pemayung",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 192,
+        "no_ruas": "192",
+        "nama_ruas": "Jl. Lingkar Sei. Buluh - Jl. SMPN 21",
+        "panjang": 3,
+        "lebar": "12.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    },
+    {
+        "id": 193,
+        "no_ruas": "193",
+        "nama_ruas": "Jl. Ds. Kilangan - Jl. Lingkar Sei. Buluh",
+        "panjang": 6,
+        "lebar": "12.00",
+        "kecamatan": "Muara Bulian",
+        "created_at": "2019-06-28 07:30:00",
+        "updated_at": "2019-06-28 07:30:00"
+    }
+]
